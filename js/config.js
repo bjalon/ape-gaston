@@ -14,7 +14,7 @@ var config = {
     username: 'bjalon',
     repo: 'git@github.com:bjalon/ape-gaston.git',
     branch: 'gh-pages',
-    host: 'https://www.ape-gaston.org',
+    host: 'http://www.ape-gaston.org',
     // Use prefix option if your site is located in a subdirectory.
     // prefix: 'subdirectory',
   },
