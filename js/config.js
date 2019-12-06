@@ -12,9 +12,9 @@ var config = {
   // and branch to get files from.
   github: {
     username: 'bjalon',
-    repo: 'git@github.com:bjalon/ape-gaston.git',
+    repo: 'ape-gaston',
     branch: 'gh-pages',
-    host: 'http://www.ape-gaston.org',
+    host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
     // prefix: 'subdirectory',
   },
