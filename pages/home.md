@@ -1,7 +1,6 @@
 ---
-title: Home
+title: Bienvenu à l'APE de Gaston
 ---
-
 
 Bienvenue sur le site de l'APE de Gaston. Nous sommes heureux de vous proposer dans ce site toutes les
 informations à venir...
