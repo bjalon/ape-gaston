@@ -35,10 +35,6 @@ var config = {
   // and single layout template that will determine how the file will be rendered.
   types: [
     {
-      name: 'home',
-      layout: {list: 'home-list'},
-    },
-    {
     // for example, layouts/post-list.html
     name: 'posts',
       layout: { list: 'post-list', single: 'post' },
