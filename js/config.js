@@ -8,7 +8,7 @@ var config = {
   // Defaults to Server mode if not specified
   mode: 'GITHUB',
 
-  // If Github mode is set, your Github username, repo name, 
+  // If Github mode is set, your Github username, repo name,
   // and branch to get files from.
   github: {
     username: 'bjalon',
@@ -28,12 +28,16 @@ var config = {
   // The URL that will be the default view that will initially load
   // For example, this could a list view or a could be a specific view
   // like a single page.
-  defaultView: 'posts',
+  defaultView: 'home',
 
   // These are the types of content to load. Each type name is a directory or
   // folder where the files, pages or posts are located. Each type has a list
   // and single layout template that will determine how the file will be rendered.
   types: [
+    {
+      name: 'home',
+      layout: {list: 'home-list'},
+    },
     {
     // for example, layouts/post-list.html
     name: 'posts',
