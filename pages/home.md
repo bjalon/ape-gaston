@@ -1,6 +1,6 @@
 ---
 title: Bienvenu à l'APE de Gaston
-picture: https://drive.google.com/open?id=1fQbDE2XskWm2BbwweQKCwPvXIaUrK6xG
+picture: obEhDY-mSB7chcvcEWO1MBvkVMiHonMPxK1k7INjc835F9jVlMgVeQ1Dzc9u_Mag34Xm8m8tnKSYtw=w2880-h650-rw
 ---
 
 Bienvenue sur le site de l'APE de Gaston. Nous sommes heureux de vous proposer dans ce site toutes les
