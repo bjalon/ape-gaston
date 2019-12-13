@@ -32,7 +32,7 @@ var CMS = function (o) {
 
     function u() {
         this.rules = [{
-            regex: /(#+)(.*)/g, replacement: function (t, e, n) {
+            regex: /(#+)(?!\/)(.*)/g, replacement: function (t, e, n) {
                 var i = e.length;
                 return "<h" + i + ">" + n.trim() + "</h" + i + ">"
             }
