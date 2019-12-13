@@ -1,6 +1,6 @@
 ---
     title: APE de Gaston
-    subtitle: Bienvenu à l'APE de Gaston
+    subtitle: Bienvenue à l'APE de Gaston
 picture: ../img/plan-eau.jpg
 ---
 
