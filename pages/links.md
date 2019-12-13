@@ -4,7 +4,7 @@ subtitle: Retrouvez tous les liens utiles
 picture: ../img/link.jpg
 ---
 
-* Le site de la course d'obstacles : [course.ape-gaston.org](course.ape-gaston.org)
+* Le site de la course d'obstacles : [course.ape-gaston.org](http://course.ape-gaston.org)
 * Le site du site Gaston Defferre : [Site du collège](https://sites.google.com/site/collegegdefferrepreuilly/home)
 * Le [site de l'ENT](https://www.touraine-eschool.fr/portail/f/welcome/normal/render.uP) donnant accès entre autre à Pronotes
 
