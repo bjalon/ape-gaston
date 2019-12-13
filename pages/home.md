@@ -1,23 +1,21 @@
 ---
-title: Bienvenu à l'APE de Gaston
-picture: obEhDY-mSB7chcvcEWO1MBvkVMiHonMPxK1k7INjc835F9jVlMgVeQ1Dzc9u_Mag34Xm8m8tnKSYtw=w2880-h650-rw
+    title: APE de Gaston
+    subtitle: Bienvenu à l'APE de Gaston
+picture: ../img/plan-eau.jpg
 ---
 
-Bienvenue sur le site de l'APE de Gaston. Nous sommes heureux de vous proposer dans ce site toutes les
-informations à venir...
+Nous sommes heureux de vous proposer dans ce site 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet magna lorem. Etiam euismod
-facilisis felis, quis tincidunt odio eleifend quis. Donec et eros dictum, pulvinar quam id, suscipit
-eros. Nullam consectetur sed velit id fermentum. Duis aliquet, mi sit amet laoreet congue, nulla leo
-ultrices nibh, ut dictum sem mauris consequat augue. Integer lobortis magna vel ligula venenatis, ut
-tincidunt enim semper. Suspendisse sodales consequat placerat. Suspendisse nisi eros, sollicitudin eget
-eleifend elementum, interdum non metus. Donec ex ex, placerat id arcu sit amet, euismod gravida lorem.
-Praesent fermentum nulla eget ipsum imperdiet, in fermentum magna molestie.
+* [toutes les événements à venir pour nos enfants dans calendrier](/#/calendrier),
+* [les photos des événements passés](/#/old),
+* [les achats que nous avons pu faire grâce à votre présence](/#/page/results).
 
-Sed consectetur imperdiet lacus nec auctor. Pellentesque tincidunt fermentum eros, et gravida nisl
-convallis ut. Morbi nec consectetur arcu, non pulvinar nisl. Mauris a leo vehicula, volutpat enim eu,
-feugiat libero. Suspendisse potenti. Donec condimentum diam eu nulla dictum imperdiet. Mauris dapibus
-iaculis congue. Suspendisse pellentesque molestie mollis. Vivamus vel varius lorem, non hendrerit ipsum.
-Mauris placerat ex odio, vitae venenatis urna condimentum nec. Phasellus quis nulla ante. Nunc consequat
-quam quis magna ultrices, dignissim pretium mauris facilisis. Aenean dolor urna, mollis vitae congue
-non, consequat quis magna.
+Nous remercions toutes les personnes s'engageant avec nous pour faire que les années scolaires se passent au mieux.
+
+L'ambition de notre association est forte pour accompagner la réussite de tous à notre niveau.
+
+C'est pourquoi, nous avons commencé à oeuvrer sur un grand événement pour l'année 2020 : Une course d'obstacle pour les petits et les grands. Nous vous invitons à [visiter le site pour en savoir plus](http://course.ape-gaston.org). Pour cet événement, nous aurons besoin de tous ceux prêt à s'engager dans cette grande aventure.
+
+En attendant cela, nous vous souhaitons de joyeuses fêtes.
+
+<div style="text-align: right"> Le Bureau de l'APE de Gaston </div>

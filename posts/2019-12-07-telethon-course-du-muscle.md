@@ -2,7 +2,7 @@
 layout: post
 title: Téléthon 2019
 date: 2019-12-07
-excerpt: Téléthon
+excerpt: Aujourd'hui a eu lieu le marathon du Téléthon 2019.
 author: Benjamin JALON
 ---
 
