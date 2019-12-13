@@ -6,9 +6,9 @@ picture: ../img/plan-eau.jpg
 
 Nous sommes heureux de vous proposer dans ce site 
 
-* [toutes les événements à venir pour nos enfants dans calendrier](/#/calendrier),
-* [les photos des événements passés](/#/old),
-* [les achats que nous avons pu faire grâce à votre présence](/#/page/results).
+* [toutes les événements à venir pour nos enfants dans calendrier](/#/pages/calendrier),
+* [les photos des événements passés](/#/posts/),
+* [les achats que nous avons pu faire grâce à votre présence](/#/pages/results).
 
 Nous remercions toutes les personnes s'engageant avec nous pour faire que les années scolaires se passent au mieux.
 

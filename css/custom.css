@@ -3,7 +3,7 @@
     background-image: url("../img/plan-eau.jpg");
 
     /* Set a specific height */
-    height: 400px;
+    height: 500px;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -12,8 +12,11 @@
     background-size: contain;
 }
 
-
-
 .hero .title {
     color: #ae0202;
+}
+
+.navbar-item.is-active {
+    text-decoration: underline;
+    font-weight: bold;
 }
